@@ -1,6 +1,6 @@
 # ECEN 2270 Data_Structures_Project
 
-I created a C++ program tha evaluates the most efficient data structure to track library book deliveries using integer- based shipment IDs.
+I created a C++ program that evaluates the most efficient data structure to track library book deliveries using integer- based shipment IDs.
 
 
 argv[0] = ./a.out
